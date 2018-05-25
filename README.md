@@ -2,10 +2,16 @@
 
 A simple react component to transform images through cloudinary
 
+
 ## Getting Started
 Cloudinary is a cloud service that offers a solution to a web application's entire image management pipeline.
 
 Integrate cloudinary with your react application with this simple component by giving few important information like cloudName, transformations , image name, type of image uploading etc. and you are good to go
+
+## Demo
+
+CodeSanbox example
+(https://codesandbox.io/embed/5xw755oq5l)
 ## Installation
 NPM
 Install the files using the following command. Use the optional --save parameter if you wish to save the dependency in your package.json file.
