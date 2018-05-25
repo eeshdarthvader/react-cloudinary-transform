@@ -10,11 +10,11 @@ Integrate cloudinary with your react application with this simple component by g
 NPM
 Install the files using the following command. Use the optional --save parameter if you wish to save the dependency in your package.json file.
 ```
-npm install react-cloudinary-transform --save
+npm install react-transform-cloudinary --save
 ```
 OR
 ```
-yarn add react-cloudinary-transform
+yarn add react-transform-cloudinary
 ```
 
 Setup
@@ -22,7 +22,7 @@ Setup
 Include the javascript files in your code. For Example:
 
 ```
-import Cloudinary from 'react-cloudinary-transform';
+import Cloudinary from 'react-transform-cloudinary';
 ```
 
 In order to properly use this library you have to provide it with a few configuration parameters.
@@ -30,7 +30,7 @@ In order to properly use this library you have to provide it with a few configur
 ```
 import React from "react";
 import { render } from "react-dom";
-import Cloudinary from "react-cloudinary-transform";
+import Cloudinary from "react-transform-cloudinary";
 
 const styles = {
   fontFamily: "sans-serif",

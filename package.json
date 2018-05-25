@@ -1,5 +1,5 @@
 {
-  "name": "react-cloudinary-transform",
+  "name": "react-transform-cloudinary",
   "version": "1.0.0",
   "description": "A simple component to transform images from cloudinary",
   "main": "index.js",
