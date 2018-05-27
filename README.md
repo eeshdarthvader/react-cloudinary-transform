@@ -16,11 +16,11 @@ CodeSanbox example
 NPM
 Install the files using the following command. Use the optional --save parameter if you wish to save the dependency in your package.json file.
 ```
-npm install react-transform-cloudinary --save
+npm install react-cloudinary-transform --save
 ```
 OR
 ```
-yarn add react-transform-cloudinary
+yarn add react-cloudinary-transform
 ```
 
 Setup
@@ -28,7 +28,7 @@ Setup
 Include the javascript files in your code. For Example:
 
 ```
-import Cloudinary from 'react-transform-cloudinary';
+import Cloudinary from 'react-cloudinary-transform';
 ```
 
 In order to properly use this library you have to provide it with a few configuration parameters.
